@@ -1,2 +1,2 @@
 ## MarkDown previewer
-![Markdown previewer image](./readme.JPG)
+![Markdown previewer image](./readme_image.JPG)
